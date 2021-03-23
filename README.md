@@ -1,6 +1,6 @@
 # rs
 
-Dump du recueil systématique (français, HTML).
+Dump du recueil systématique du droit fédéral suisse (en français, format HTML).
 
 Dernière récupération des données : 22 mars 2021.
 
