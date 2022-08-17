@@ -7,6 +7,9 @@ authors = ["Simon Junod <sj@simonjunod.ch>"]
 [tool.poetry.dependencies]
 python = "^3.10"
 markovify = "^0.9.4"
+bs4 = "^0.0.1"
+pygrammalecte = "^1.3.0"
+language-tool-python = "^2.7.1"
 
 [tool.poetry.dev-dependencies]
 
